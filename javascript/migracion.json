@@ -1,0 +1,22 @@
+[
+{
+	"nombre": "Paquete Inicio",
+	"caracteristicas": "Migración de hasta 50 GB de información, con creación de base en la nube",
+    "precio": "$299",
+    "imagen": "../imagenes/migracion1.png"
+}, {
+	"nombre": "Paquete Gerencial",
+	"caracteristicas": "Migración de hasta 100 GB de información con generación de base en la nube",
+    "precio": "$249",
+    "imagen": "../imagenes/migracion2.png"
+}, {
+	"nombre": "Paquete Corporativo",
+	"caracteristicas": "Migración de hasta 300 GB de información, generación de bases y mantenimiento.",
+    "precio": "$349",
+    "imagen": "../imagenes/migracion3.png"
+}, {
+	"nombre": "Paquete Empresarial",
+	"caracteristicas": "Migración de hasta 500 GB de datos, bases en nube y mantenimiento durante 2 años.",
+    "precio": "$499",
+    "imagen": "../imagenes/migracion4.png"
+}]

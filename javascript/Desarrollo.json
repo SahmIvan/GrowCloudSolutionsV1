@@ -1,0 +1,21 @@
+[{
+	"nombre": "Paquete Plata",
+	"caracteristicas": "Generación de modelo con base en diseño y establecido",
+    "precio": "$599",
+    "imagen": "../imagenes/desarrollo1.png"
+}, {
+	"nombre": "Paquete Oro",
+	"caracteristicas": "Generación de modelo y diseñado de bases de acuerdo a su negocio.",
+    "precio": "$699",
+    "imagen": "../imagenes/desarrollo2.png"
+}, {
+	"nombre": "Paquete Platino",
+	"caracteristicas": "Generación de modelo, bases, sistema de nube y plan empresarial",
+    "precio": "$799",
+    "imagen": "../imagenes/desarrollo3.png"
+}, {
+	"nombre": "Paquete Diamante",
+	"caracteristicas": "Generación de modelo, bases, nube, plan empresarial y posicionamiento web",
+    "precio": "$899",
+    "imagen": "../imagenes/desarrollo4.png"
+}]

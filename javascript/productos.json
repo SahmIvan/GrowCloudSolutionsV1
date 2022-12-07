@@ -1,0 +1,21 @@
+[{
+	"nombre": "Paquete General",
+	"caracteristicas": "Se revisan errores y arreglan en el momento",
+    "precio": "$99",
+    "imagen": "../imagenes/mantenimiento1.png"
+}, {
+	"nombre": "Paquete Continuo",
+	"caracteristicas": "Se revisan errores y se da un seguimiento durante 6 meses",
+    "precio": "$199",
+    "imagen": "../imagenes/mantenimiento2.png"
+}, {
+	"nombre": "Paquete Completo",
+	"caracteristicas": "Mantenimiento completo, a demás de un seguimiento durante 1 año",
+    "precio": "$299",
+    "imagen": "../imagenes/mantenimiento3.png"
+}, {
+	"nombre": "Paquete Especializado",
+	"caracteristicas": "Mantenimiento completo, seguimiento por 2 años y actualización de basases de datos",
+    "precio": "$399",
+    "imagen": "../imagenes/mantenimiento4.png"
+}]
